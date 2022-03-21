@@ -19,7 +19,7 @@ Matrix factorization plays a major role in the recommender systems. It:
 - decreases the computations
 - improves the performance as it increases the robustness of the system w.r.t. the noise.
 
-The process of the matrix factorization using embedding layers is shown in the following figure (the original figure is from this [reference](https://www.kaggle.com/code/colinmorris/matrix-factorization/notebook))
+The process of the matrix factorization using embedding layers is shown in the following figure:
 
 <p float="left">
   <img src="/figs/MF_embedding_form.png" width="450" />
